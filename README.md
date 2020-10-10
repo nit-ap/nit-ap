@@ -11,15 +11,15 @@ Welcome to NIT AP Developer Club .
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/nit-ap/count.svg" /></p>
 <hr>
 
-## Admins
+## ✨ Admins
 <ul>
     <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
     <li><a href="https://github.com/suubh">Shubham Singh</a></li>
-    <li>Satish</li>
-    <li>Sarthak</li>
-    <li>Amit</li>
-    <li>Jayesh</li>
-    <li>Anish Nirala</li>
+    <li><a href="https://github.com/">Satish</a></li>
+    <li><a href="https://github.com/cod3bug">Sarthak Gupta</a></li>
+    <li><a href="https://github.com/amityadav341">Amit Yadav</a></li>
+    <li><a href="https://github.com/jayesh-ctrl">Jayesh Gupta</a></li>
+    <li><a href="https://github.com/Anish-Nirala">Anish Nirala</a></li>
     
 </ul>
 <br>
