@@ -37,4 +37,4 @@ Here is the list of our amazing contributors-
   <li><a href="https://github.com/maheshNITAP">Mahesh Meena</a></li>
     
 </ul>
-Add yourself in the contributors list by making your first Pull request in this organization . How to add ,please visit <a href="https://github.com/nit-ap/nit-ap/blob/main/Contributors.md">Contributors.md</a>
+Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit <a href="https://github.com/nit-ap/nit-ap/blob/main/Contributors.md">Contributors.md</a>
