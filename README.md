@@ -21,6 +21,8 @@ Welcome to NIT AP Developer Club .
     <li>Jayesh</li>
     <li>Anish Nirala</li>
 </ul>
+<br>
+
 ## 🤝Contributors
 Here is the list of our amazing contributors-
 <ul>
