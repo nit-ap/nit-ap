@@ -8,7 +8,7 @@ Welcome to NIT AP Developer Club . This is the Developer Club of NIT Arunachal P
 Some important links -
 <ul>
     <li>Visit our institute website <a href="https://nitap.ac.in">here.</a></li>
-    <li>Coding Club visit<a href="https://www.nitap.ac.in/quick/CodingClub/home/">here.</a></li>
+    <li>Coding Club visit <a href="https://www.nitap.ac.in/quick/CodingClub/home/">here.</a></li>
 </ul>
 <br>
 
