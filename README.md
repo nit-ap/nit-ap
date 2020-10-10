@@ -19,26 +19,22 @@ For any queries , please reach out to any of the admins.
 <hr>
 
 ## ✨ Admins
-<ul>
-    <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
-    <li><a href="https://github.com/suubh">Shubham Singh</a></li>
-    <li><a href="https://github.com/">Satish</a></li>
-    <li><a href="https://github.com/cod3bug">Sarthak Gupta</a></li>
-    <li><a href="https://github.com/amityadav341">Amit Yadav</a></li>
-    <li><a href="https://github.com/jayesh-ctrl">Jayesh Gupta</a></li>
-    <li><a href="https://github.com/Anish-Nirala">Anish Nirala</a></li>
-    
-</ul>
-<br>
+- [Manikant Kumar](https://github.com/devil-cyber)
+- [Shubham Singh](https://github.com/suubh)
+- [Satish](https://github.com/)
+- [Sarthak Gupta](https://github.com/cod3bug)
+- [Amit Yadav](https://github.com/amityadav341)
+- [Jayesh Gupta](https://github.com/jayesh-ctrl)
+- [Anish Nirala](https://github.com/Anish-Nirala) 
 
 ## 🤝Contributors
 Here is the list of our amazing contributors-
-<ul>
-  <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
-  <li><a href="https://github.com/suubh">Shubham Singh</a></li>
-  <li><a href="https://github.com/maheshNITAP">Mahesh Meena</a></li>
-    
-</ul>
-Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit <a href="https://github.com/nit-ap/nit-ap/blob/main/Contributors.md">Contributors.md .</a>
-<br>
+- [Manikant Kumar](https://github.com/devil-cyber)
+- [Shubham Singh](https://github.com/suubh)
+- [Mahesh Meena](https://github.com/mahgiteshNITAP)
+- [Chandra Mohan](https://github.com/chandra474)
+
+Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit [Contributers.md](https://github.com/nit-ap/nit-ap/blob/main/Contributors.md).
+
 *Only NIT AP students add yourself in this contributors list , outside contributors can add themselves in the project repositories only.
+ 
