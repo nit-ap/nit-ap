@@ -4,7 +4,10 @@
 <img align="center" src="https://github.com/nit-ap/nit-ap/blob/main/NITAP.png" />
 
 </p>
-Welcome to NIT AP Developer Club . This is the Developer Club of NIT Arunachal Pradesh.
+Welcome to NIT AP Developer Club . This is the Student Developer Club of NIT Arunachal Pradesh.
+The main motto of the club is to bring the Open Source culture and ignite its importance in the Students.
+There are different topics and projects in the club where you can contribute and can also add your projects.
+For any queries , please reach out to any of the admins.
 Some important links -
 <ul>
     <li>Visit our institute website <a href="https://nitap.ac.in">here.</a></li>
@@ -38,3 +41,4 @@ Here is the list of our amazing contributors-
     
 </ul>
 Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit <a href="https://github.com/nit-ap/nit-ap/blob/main/Contributors.md">Contributors.md</a>
+*Only NIT AP students add yourself in this list , outside contributors can add themselves in the project repositories only .
