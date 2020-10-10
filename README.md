@@ -4,7 +4,12 @@
 <img align="center" src="https://github.com/nit-ap/nit-ap/blob/main/NITAP.png" />
 
 </p>
-Welcome to NIT AP Developer Club . 
+Welcome to NIT AP Developer Club . This is the Developer Club of NIT Arunachal Pradesh.
+Some important links -
+<ul>
+    <li>Visit our institute website <a href="https://nitap.ac.in">here.</a></li>
+    <li><a href="https://www.nitap.ac.in/quick/CodingClub/home/">Coding Club</a></li>
+</ul>
 <br>
 
 <hr>
