@@ -40,4 +40,4 @@ Here is the list of our amazing contributors-
     
 </ul>
 Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit <a href="https://github.com/nit-ap/nit-ap/blob/main/Contributors.md">Contributors.md</a>
-*Only NIT AP students add yourself in this list , outside contributors can add themselves in the project repositories only .
+### Only NIT AP students add yourself in this list , outside contributors can add themselves in the project repositories only .
