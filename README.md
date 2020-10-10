@@ -33,6 +33,7 @@ Here is the list of our amazing contributors-
 - [Shubham Singh](https://github.com/suubh)
 - [Mahesh Meena](https://github.com/mahgiteshNITAP)
 - [Chandra Mohan](https://github.com/chandra474)
+- [Alisha Gupta](https://github.com/AlishaGupta0707)
 
 Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit [Contributers.md](https://github.com/nit-ap/nit-ap/blob/main/Contributors.md).
 
