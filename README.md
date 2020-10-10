@@ -4,6 +4,7 @@
 <img align="center" src="https://github.com/nit-ap/nit-ap/blob/main/NITAP.png" />
 
 </p>
+Welcome to NIT AP Developer Club .
 <br>
 
 <hr>
@@ -11,4 +12,9 @@
 <hr>
 
 
-Introduction
+## 🤝Contributors
+Here is the list of our amazing contributors-
+<ul>
+  <li><a href="https://github.com/devil-cyber">Manikant Kumar</a></li>
+  <li><a href="https://github.com/suubh">Shubham Singh</a></li>
+</ul>
