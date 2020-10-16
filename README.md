@@ -34,6 +34,7 @@ Here is the list of our amazing contributors-
 - [Mahesh Meena](https://github.com/mahgiteshNITAP)
 - [Chandra Mohan](https://github.com/chandra474)
 - [Alisha Gupta](https://github.com/AlishaGupta0707)
+- [Jampani Ramadevi](https://github.com/ramadevi-rd)
 
 Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit [Contributers.md](https://github.com/nit-ap/nit-ap/blob/main/Contributors.md).
 
