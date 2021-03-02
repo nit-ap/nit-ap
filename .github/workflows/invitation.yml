@@ -15,5 +15,5 @@ jobs:
           comment: '<b>Invitation sent for the Github Organisation, please check your mail. Welcome to the NIT Arunachal Developer club🎉</b>'
         env:
           ADMIN_TOKEN: ${{secrets.ADMIN_TOKEN}}
-          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
+          
         
