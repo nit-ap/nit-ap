@@ -12,7 +12,7 @@ jobs:
           organization: NIT Arunachal Developer Club
           label: invite me to the organisation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: '<b>Invitation sent for the Github Organisation,please check your mail.Welcome to the NIT Arunachal Developer club🎉</b>'
+          comment: '<b>Invitation sent for the Github Organisation, please check your mail. Welcome to the NIT Arunachal Developer club🎉</b>'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
         
