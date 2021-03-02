@@ -14,5 +14,5 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: '<b>Invitation sent for the Github Organisation, please check your mail. Welcome to the NIT Arunachal Developer club🎉</b>'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
         
