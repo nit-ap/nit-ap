@@ -7,4 +7,12 @@ assignees: suubh
 
 ---
 
-Template for Invitation .
+Please invite me to the GitHub Community Organization.
+
+- ##### Name :
+
+- ##### College :
+
+- ##### About yourself : 
+
+:nerd_face:
