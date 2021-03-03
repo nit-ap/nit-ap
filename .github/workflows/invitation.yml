@@ -9,7 +9,7 @@ jobs:
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.2
         with:
-          organization: NIT Arunachal Developer Club
+          organization: nit-ap
           label: invite me to the organisation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: '<b>Invitation sent for the Github Organisation, please check your mail. Welcome to the NIT Arunachal Developer club🎉</b>'
