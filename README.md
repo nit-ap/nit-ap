@@ -1,6 +1,8 @@
 # NIT AP Developer Club
 <p align="center">
 
+<img align="center" src="/nit-ap/NITAP.png" />
+
 <img align="center" src="https://github.com/nit-ap/nit-ap/blob/main/NITAP.png" />
 
 </p>
