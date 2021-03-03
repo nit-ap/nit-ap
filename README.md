@@ -36,7 +36,7 @@ Here is the list of our amazing contributors-
 - [Alisha Gupta](https://github.com/AlishaGupta0707)
 - [Jampani Ramadevi](https://github.com/ramadevi-rd)
 
-Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit [Contributers.md](https://github.com/nit-ap/nit-ap/blob/main/Contributors.md).
+### Add yourself in the contributors list by making your first Pull request in this organization . How to add yourself,please visit [Contributers.md](https://github.com/nit-ap/nit-ap/blob/main/Contributors.md).
 
 * Only NIT AP students add yourself in this contributors list , outside contributors can add themselves in the project repositories only.
  
