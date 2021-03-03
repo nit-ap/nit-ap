@@ -17,7 +17,7 @@ Some important links -
 
 
 
-## Raise an Issue to join the NIT AP Developer Club .Check [*here.*]()
+### Raise an Issue to join the NIT AP Developer Club .Check [*here.*]()
 *For any queries , please reach out to any of the admins.*
 <br>
 <hr>
