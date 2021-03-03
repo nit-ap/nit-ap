@@ -20,9 +20,13 @@ Some important links -
 ### Raise an Issue to join the NIT AP Developer Club .Check [*here.*]()
 *For any queries , please reach out to any of the admins.*
 <br>
-<hr>
+
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/nit-ap/count.svg" /></p>
-<hr>
+
+
+
+
+
 
 ## ✨ Admins
 - [Manikant Kumar](https://github.com/devil-cyber)
