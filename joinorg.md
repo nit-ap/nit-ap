@@ -28,6 +28,9 @@
 Choose the template "Invitation to the GitHub Community Organization" and click on Get Started.
 
 ## ⚡Fill your details.
+Now fill the required details and click on Submit . 
+The GitHub action will work and after sometime bot will close your issue with a message to check your mail .
+
 <p align="center">
   <img align="center" width="500" src="join/submit.jpg" />
 </p>
@@ -37,8 +40,6 @@ Choose the template "Invitation to the GitHub Community Organization" and click 
 
 
 
-Now fill the required details and click on Submit . 
-The GitHub action will work and after sometime bot will close your issue with a message to check your mail .
 
 
 
