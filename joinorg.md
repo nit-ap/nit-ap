@@ -1,7 +1,9 @@
 # Follow the ordered steps.
 
 ## ⚡Open the repositroy and click on Issues.
-<img align="center" width="300" src="join/Issues.jpg" />
+<p align="center">
+  <img align="center" width="300" src="join/Issues.jpg" />
+</p>
 
 
 
