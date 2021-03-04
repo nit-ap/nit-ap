@@ -46,7 +46,7 @@ The GitHub action will work and after sometime bot will close your issue with a 
 
 
 
-## ⚡Check your mail and accept the invitation to join the community.
+### ⚡Check your mail and accept the invitation to join the community.
 
 
 
