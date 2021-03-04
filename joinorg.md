@@ -1,6 +1,6 @@
 # Follow the ordered steps.
 
-## ⚡Open the repository and click on Issues.
+### ⚡Open the repository and click on Issues.
 <p align="center">
   <img align="center" width="300" src="join/Issues.jpg" />
 </p>
