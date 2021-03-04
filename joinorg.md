@@ -15,12 +15,12 @@
 
 
 ## ⚡Choose the template.
-<img align="center"  src="join/getstarted.jpg" />
+<img align="center" height="100"  src="join/getstarted.jpg" />
 
 Choose the template "Invitation to the GitHub Community Organization" and click on Get Started.
 
 ## ⚡Fill your details.
-<img align="center" width="300" src="join/submit.jpg" />
+<img align="center" width="500" src="join/submit.jpg" />
 
 
 Now fill the required details and click on Submit . 
