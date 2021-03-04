@@ -1,6 +1,6 @@
 # Follow the ordered steps.
 
-## ⚡Open the repositroy and click on Issues.
+## ⚡Open the repository and click on Issues.
 <p align="center">
   <img align="center" width="300" src="join/Issues.jpg" />
 </p>
@@ -12,7 +12,13 @@
 
 
 ## ⚡Create a new Issue.
-<img align="center" width="300" src="join/newissues.jpg" />
+<p align="center">
+  <img align="center" width="300" src="join/newissues.jpg" />
+</p>
+
+
+
+
 
 
 
@@ -22,7 +28,13 @@
 Choose the template "Invitation to the GitHub Community Organization" and click on Get Started.
 
 ## ⚡Fill your details.
-<img align="center" width="500" src="join/submit.jpg" />
+<p align="center">
+  <img align="center" width="500" src="join/submit.jpg" />
+</p>
+
+
+
+
 
 
 Now fill the required details and click on Submit . 
