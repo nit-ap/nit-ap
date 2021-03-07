@@ -52,15 +52,20 @@ The GitHub action will work and after sometime bot will close your issue with a 
   <img align="left" width="300" src="join/People.jpg" />
 </p></li>
   
+</ul>
+
+
+<ul> 
+  <li>Enter your username in the highlighted searchbar:<p align="left">
+  <img align="left" width="300" src="join/find.jpg" />
+</p>
   
-  
-  <li>Enter your username in the highlighted searchbar:
-  <img  width="300" src="join/find.jpg" />
 </li>
+</ul>
 
 
-
-  <li>Click Private (the default) and set it to Public.<p align="center">
+<ul>
+  <li>Click Private (the default) and set it to Public.<p align="left">
   <img align="left" width="300" src="join/public.jpg" />
 </p></li>
 </ul>
