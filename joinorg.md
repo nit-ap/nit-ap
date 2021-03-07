@@ -54,9 +54,9 @@ The GitHub action will work and after sometime bot will close your issue with a 
   
   
   
-  <li>Enter your username in the highlighted searchbar:<p align="center">
+  <li>Enter your username in the highlighted searchbar:
   <img align="left" width="300" src="join/find.jpg" />
-</p></li>
+</li>
 
 
 
