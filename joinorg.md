@@ -49,13 +49,19 @@ The GitHub action will work and after sometime bot will close your issue with a 
 <ul>
   <li>Navigate to our community page: https://github.com/nit-ap</li>
   <li>Click on the highlited area:<p align="center">
-  <img align="left" width="500" src="join/people.jpg" />
+  <img align="left" width="300" src="join/People.jpg" />
 </p></li>
+  
+  
+  
   <li>Enter your username in the highlighted searchbar:<p align="center">
-  <img align="left" width="500" src="join/find.jpg" />
+  <img align="left" width="300" src="join/find.jpg" />
 </p></li>
+
+
+
   <li>Click Private (the default) and set it to Public.<p align="center">
-  <img align="left" width="500" src="join/public.jpg" />
+  <img align="left" width="300" src="join/public.jpg" />
 </p></li>
 </ul>
 
