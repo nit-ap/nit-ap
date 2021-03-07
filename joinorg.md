@@ -42,11 +42,22 @@ The GitHub action will work and after sometime bot will close your issue with a 
 
 
 
+## ⚡Check your mail and accept the invitation to join the community.
+
+
+## ⚡Set the organization to public.
+<ul>
+  <li>Navigate to our community page: https://github.com/nit-ap</li>
+  <li>Click on the highlited area:</li>
+  <li>Enter your username in the highlighted searchbar:</li>
+  <li>Click Private (the default) and set it to Public</li>
+</ul>
 
 
 
 
-### ⚡Check your mail and accept the invitation to join the community.
+
+
 
 
 
