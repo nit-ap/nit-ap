@@ -48,7 +48,7 @@ The GitHub action will work and after sometime bot will close your issue with a 
 ## ⚡Set the organization to public.
 <ul>
   <li>Navigate to our community page: https://github.com/nit-ap</li>
-  <li>Click on the highlited area:<p align="center">
+  <li>Click on the highlited area:<p align="left">
   <img align="left" width="300" src="join/People.jpg" />
 </p></li>
   
