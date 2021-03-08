@@ -47,22 +47,22 @@ The GitHub action will work and after sometime bot will close your issue with a 
 
 ## ⚡Set the organization to public.
 
-  ##### Navigate to our community page: https://github.com/nit-ap
-  ##### Click on the highlighted area:<p align="left">
+  ##### 💬 Navigate to our community page: https://github.com/nit-ap
+  ##### 💬 Click on the highlighted area:<p align="left">
   <img align="center" width="350" src="join/People.jpg" />
 </p>
   
   
   
   
-  ##### Enter your username in the highlighted searchbar:<p align="center">
+  ##### 💬 Enter your username in the highlighted searchbar:<p align="center">
   <img align="center" width="400" src="join/find.jpg" />
 </p>
 
 
 
-  ##### Click Private (the default) and set it to Public.<p align="center">
-  <img align="center" width="500" src="join/public.jpg" />
+  ##### 💬 Click Private (the default) and set it to Public.<p align="center">
+  <img align="center" width="400" src="join/public.jpg" />
 </p>
 
 
