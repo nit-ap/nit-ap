@@ -1,4 +1,4 @@
-# Follow the ordered steps.
+# 🚩 Follow the ordered steps.
 
 ## ⚡Open the repository and click on Issues.
 <p align="center">
