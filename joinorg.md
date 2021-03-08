@@ -49,7 +49,7 @@ The GitHub action will work and after sometime bot will close your issue with a 
 <ul>
   <li>Navigate to our community page: https://github.com/nit-ap</li>
   <li>Click on the highlighted area:<img  height="200" width="300" src="join/People.jpg"/></li>
-  <li>Enter your username in the highlighted searchbar:</li>
+  <li>Enter your username in the highlighted searchbar:<img  height="200" width="300" src="join/People.jpg"/></li>
   <li>Click Private (the default) and set it to Public</li>
 </ul>
 
